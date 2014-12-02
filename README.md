@@ -36,3 +36,6 @@ SQLite Blog allows the user to add posts and comments to those posts. The main p
 * intro-proj 1
  * Dionis Wang, Jason Lu
  * 5/intro-proj1/dionis_jasonlu
+* todo
+ * Dionis Wang, David Bang
+ * 5/todo/david_dionis
