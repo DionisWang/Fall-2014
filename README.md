@@ -25,7 +25,7 @@ SQLite Blog allows the user to add posts and comments to those posts. The main p
 
 #### https://github.com/fawnwong/SQLiteBlogs.git
 
-### Tour Sea
+### Tour Sea (Final Project)
 
 #### Dionis Wang, David Bang, Anish Malhotra, Eric Kolbusz
 
